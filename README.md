@@ -47,10 +47,10 @@ pip install requests
 The script uses the following SMTP setup (already configured inside `newsletter_script.py`):
 
 ```python
-SMTP_SERVER = "sg2plzcpnl505626.prod.sin2.secureserver.net"
+SMTP_SERVER = ""
 SMTP_PORT = 25
-SENDER_EMAIL = "newsletter@ibeeanalytics.com"
-SENDER_NAME = "iBee Analytics"
+SENDER_EMAIL = ""
+SENDER_NAME = "Sriram"
 SENDER_PASSWORD = "your_password_here"
 ```
 
